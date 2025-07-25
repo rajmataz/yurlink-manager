@@ -1,8 +1,3 @@
-# yurlink-manager
-yURLink Manager - Your intelligent URL link depository &amp; management companion
-
-# 🔗 yURLink Manager
-
 Your intelligent URL link depository & management companion
 
 ![yURLink Manager Screenshot](https://via.placeholder.com/800x400/667eea/ffffff?text=yURLink+Manager)
